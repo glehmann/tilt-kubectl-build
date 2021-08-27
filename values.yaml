@@ -1,0 +1,6 @@
+image:
+  registry: gcr.io
+  repository: example/keycloak
+auth:
+  adminPassword: hop!
+
